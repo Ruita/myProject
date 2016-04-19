@@ -1,1 +1,2 @@
 JavaScript is a loosely typed language
+It is a client side scripting language
